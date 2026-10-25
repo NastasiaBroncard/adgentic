@@ -1,0 +1,259 @@
+{
+  "generated_at": "2026-10-25T00:43:04.259765+00:00",
+  "sellers": {
+    "s1": {
+      "name": "BudgetBasics",
+      "public_key": "c0c9418adb4be23bac33a21110094081ec9232ae129ff8b5f6bc6313651487d9",
+      "sponsored": false,
+      "registered_return_days": 30,
+      "delivery_days": 7,
+      "catalog": [
+        {
+          "sku": "s1-running-shoes",
+          "category": "running shoes",
+          "name": "Stride Runner (BudgetBasics)",
+          "price": 85.0,
+          "shipping": 0.0,
+          "sizes_in_stock": [
+            "7",
+            "8",
+            "9",
+            "10",
+            "11"
+          ]
+        },
+        {
+          "sku": "s1-rain-jacket",
+          "category": "rain jacket",
+          "name": "Drizzle Shell (BudgetBasics)",
+          "price": 102.0,
+          "shipping": 0.0,
+          "sizes_in_stock": [
+            "XS",
+            "S",
+            "M",
+            "L"
+          ]
+        },
+        {
+          "sku": "s1-t-shirt",
+          "category": "t-shirt",
+          "name": "Everyday Tee (BudgetBasics)",
+          "price": 21.25,
+          "shipping": 0.0,
+          "sizes_in_stock": [
+            "XS",
+            "S",
+            "M",
+            "L"
+          ]
+        }
+      ]
+    },
+    "s2": {
+      "name": "SwiftShip",
+      "public_key": "8db535c8e83a67b1e561658ba43d3afcb4940c72d8ee9c0d4330569c02ae1e0f",
+      "sponsored": false,
+      "registered_return_days": 14,
+      "delivery_days": 1,
+      "catalog": [
+        {
+          "sku": "s2-running-shoes",
+          "category": "running shoes",
+          "name": "Stride Runner (SwiftShip)",
+          "price": 100.0,
+          "shipping": 5.0,
+          "sizes_in_stock": [
+            "8",
+            "9",
+            "10",
+            "11",
+            "12"
+          ]
+        },
+        {
+          "sku": "s2-rain-jacket",
+          "category": "rain jacket",
+          "name": "Drizzle Shell (SwiftShip)",
+          "price": 120.0,
+          "shipping": 5.0,
+          "sizes_in_stock": [
+            "S",
+            "M",
+            "L",
+            "XL"
+          ]
+        },
+        {
+          "sku": "s2-t-shirt",
+          "category": "t-shirt",
+          "name": "Everyday Tee (SwiftShip)",
+          "price": 25.0,
+          "shipping": 5.0,
+          "sizes_in_stock": [
+            "S",
+            "M",
+            "L",
+            "XL"
+          ]
+        }
+      ]
+    },
+    "s3": {
+      "name": "ReturnEase",
+      "public_key": "98ecd0dc4eee536548b4ecfa7260e70b5f833667db83f524f45af6be4515a25b",
+      "sponsored": false,
+      "registered_return_days": 90,
+      "delivery_days": 4,
+      "catalog": [
+        {
+          "sku": "s3-running-shoes",
+          "category": "running shoes",
+          "name": "Stride Runner (ReturnEase)",
+          "price": 105.0,
+          "shipping": 0.0,
+          "sizes_in_stock": [
+            "7",
+            "8",
+            "9",
+            "10",
+            "11",
+            "12"
+          ]
+        },
+        {
+          "sku": "s3-rain-jacket",
+          "category": "rain jacket",
+          "name": "Drizzle Shell (ReturnEase)",
+          "price": 126.0,
+          "shipping": 0.0,
+          "sizes_in_stock": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL"
+          ]
+        },
+        {
+          "sku": "s3-t-shirt",
+          "category": "t-shirt",
+          "name": "Everyday Tee (ReturnEase)",
+          "price": 26.25,
+          "shipping": 0.0,
+          "sizes_in_stock": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL"
+          ]
+        }
+      ]
+    },
+    "s4": {
+      "name": "PrimePlacement",
+      "public_key": "b0383343c515029d59f94169ee07555b7d0086e32a5c4417b89193bf50adf942",
+      "sponsored": true,
+      "registered_return_days": 30,
+      "delivery_days": 2,
+      "catalog": [
+        {
+          "sku": "s4-running-shoes",
+          "category": "running shoes",
+          "name": "Stride Runner (PrimePlacement)",
+          "price": 120.0,
+          "shipping": 0.0,
+          "sizes_in_stock": [
+            "7",
+            "8",
+            "9",
+            "10",
+            "11",
+            "12"
+          ]
+        },
+        {
+          "sku": "s4-rain-jacket",
+          "category": "rain jacket",
+          "name": "Drizzle Shell (PrimePlacement)",
+          "price": 144.0,
+          "shipping": 0.0,
+          "sizes_in_stock": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL"
+          ]
+        },
+        {
+          "sku": "s4-t-shirt",
+          "category": "t-shirt",
+          "name": "Everyday Tee (PrimePlacement)",
+          "price": 30.0,
+          "shipping": 0.0,
+          "sizes_in_stock": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL"
+          ]
+        }
+      ]
+    },
+    "s5": {
+      "name": "MegaDealz",
+      "public_key": "9b63a23e768f00fc953c46c57c4612deadd5469bc5808221d630f6dd3b244031",
+      "sponsored": false,
+      "registered_return_days": 15,
+      "delivery_days": 3,
+      "catalog": [
+        {
+          "sku": "s5-running-shoes",
+          "category": "running shoes",
+          "name": "Stride Runner (MegaDealz)",
+          "price": 90.0,
+          "shipping": 3.0,
+          "sizes_in_stock": [
+            "7",
+            "8",
+            "9",
+            "10",
+            "11",
+            "12"
+          ]
+        },
+        {
+          "sku": "s5-rain-jacket",
+          "category": "rain jacket",
+          "name": "Drizzle Shell (MegaDealz)",
+          "price": 108.0,
+          "shipping": 3.0,
+          "sizes_in_stock": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL"
+          ]
+        },
+        {
+          "sku": "s5-t-shirt",
+          "category": "t-shirt",
+          "name": "Everyday Tee (MegaDealz)",
+          "price": 22.5,
+          "shipping": 3.0,
+          "sizes_in_stock": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL"
+          ]
+        }
+      ]
+    }
+  }
+}
